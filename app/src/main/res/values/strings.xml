@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="new_user_want_to_sign_up">New User/Want To Sign Up</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="log_in_to_continue">Log In To Continue</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="new_user">New User</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="go_back_to_login">Go Back to Login</string>
+    <string name="forgot_password_text">Forgot Password!</string>
+    <string name="create_new">Create New</string>
+    <string name="create">Create</string>
+    <string name="logout">Logout</string>
+    <string name="enter_note_content_here">Enter Note Content Here</string>
+    <string name="enter_note_title_here">Enter Note Title Here</string>
+    <string name="this_is_your_code_appear_here">This is your code appear here</string>
+    <string name="this_is_your_developer">This is your Developer</string>
+</resources>
